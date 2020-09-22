@@ -1,3 +1,4 @@
 greeting = "Hello World"
 
-printf(greeting)
+printf(
+  greeting)
